@@ -6,15 +6,15 @@
 
 <em>Building intelligent products with scalable web systems, ML models, and AI automation workflows.</em>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;AI%2FML+Engineer;Data+Scientist;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;AI%2FML+Engineer;Data+Science+Practitioner)](https://github.com/PankajKumar-11)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajKumar-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKumar-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PankajKumar-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKumar-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <br>
@@ -96,6 +96,34 @@
 <table align="center">
   <tr>
     <td width="50%">
+      <h3>🎨 DrawChain</h3>
+      <p><strong>Interactive drawing app with blockchain concepts</strong></p>
+      <p>Innovative drawing platform with ownership verification and chain-based architecture</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blockchain-blueviolet?style=flat" />
+        <img src="https://img.shields.io/badge/Web3-featured-yellow?style=flat" />
+      </p>
+      <a href="https://github.com/PankajKumar-11/DrawChain-">
+        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🏏 IPL Win Probability Predictor</h3>
+      <p><strong>ML-powered cricket prediction system</strong></p>
+      <p>Advanced statistical models predicting match outcomes with real-time probability updates</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-blue?style=flat" />
+      </p>
+      <a href="https://github.com/PankajKumar-11/IPL-Win-Probability-Predictor">
+        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🏨 YourBooking</h3>
       <p><strong>Full-stack hotel booking platform</strong></p>
       <p>Room discovery, availability search, and reservation workflow</p>
@@ -104,7 +132,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       </p>
-      <a href="https://github.com/PankajKumar-11/YourBooking">
+      <a href="https://github.com/PankajKumar-11/YourBooking-Hotel-booking-Web-">
         <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
       </a>
     </td>
@@ -133,18 +161,6 @@
         <img src="https://img.shields.io/badge/ML-blue?style=flat" />
       </p>
       <a href="https://github.com/PankajKumar-11/Emotion-Detection">
-        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🎨 DrawChain</h3>
-      <p><strong>Interactive drawing app</strong></p>
-      <p>Blockchain-inspired ownership and verification concepts</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blockchain-blueviolet?style=flat" />
-      </p>
-      <a href="https://github.com/PankajKumar-11/DrawChain">
         <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
       </a>
     </td>
