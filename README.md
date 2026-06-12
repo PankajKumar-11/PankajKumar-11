@@ -1,8 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Pankaj Kumar
-### Full-Stack Developer • AI/ML Engineer • Data Science Practitioner
-#### Building intelligent products with scalable web systems, ML models, and AI automation workflows.
+## Full-Stack Developer • AI/ML Engineer • Data Science Practitioner
+<em>Building intelligent products with scalable web systems, ML models, and AI automation workflows.</em>
 
 [![GitHub followers](https://img.shields.io/github/followers/PankajKumar-11?style=for-the-badge&logo=github&label=Followers)](https://github.com/PankajKumar-11)
 [![GitHub stars](https://img.shields.io/github/stars/PankajKumar-11?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/PankajKumar-11)
@@ -14,8 +14,8 @@
 
 ## 🧾 Profile Overview
 
-**Professional Headline:** Full-Stack Developer | AI/ML Engineer | Data Science Enthusiast  
-**Tagline:** Designing end-to-end digital products with modern web technologies, machine learning intelligence, and practical AI automation.
+Use this one-line bio in GitHub **Settings → Public profile → Bio**:  
+**`Full-Stack Developer | AI/ML Engineer | Data Science Enthusiast | Building scalable web and intelligent automation solutions.`**
 
 ---
 
