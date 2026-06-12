@@ -12,7 +12,7 @@
 
 ---
 
-## 🧾 Profile Bio (for GitHub Overview)
+## 🧾 Profile Overview
 
 **Professional Headline:** Full-Stack Developer | AI/ML Engineer | Data Science Enthusiast  
 **Tagline:** Designing end-to-end digital products with modern web technologies, machine learning intelligence, and practical AI automation.
@@ -51,8 +51,8 @@
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
 | **🏨 YourBooking** | Full-stack hotel booking platform with room discovery, availability search, and reservation workflow. | JavaScript, HTML, CSS | [View Repository](https://github.com/PankajKumar-11/YourBooking-Hotel-booking-Web-) |
-| **🤖 AI-Resume-Screener** | AI-powered hiring assistant for resume parsing, candidate ranking, and role-based filtering. | n8n, Airtable, AI Automation | [View Repository](https://github.com/PankajKumar-11/AI-Resume-Screener) |
-| **😊 Emotion-Detection** | Computer vision and ML system for real-time facial emotion recognition and sentiment interpretation. | Python, OpenCV, Machine Learning | [View Repository](https://github.com/PankajKumar-11/Emotion-Detection) |
+| **🤖 AI Resume Screener** | AI-powered hiring assistant for resume parsing, candidate ranking, and role-based filtering. | n8n, Airtable, AI Automation | [View Repository](https://github.com/PankajKumar-11/AI-Resume-Screener) |
+| **😊 Emotion Detection** | Computer vision and ML system for real-time facial emotion recognition and sentiment interpretation. | Python, OpenCV, Machine Learning | [View Repository](https://github.com/PankajKumar-11/Emotion-Detection) |
 | **🎨 DrawChain** | Interactive drawing app concept integrated with blockchain-inspired ownership and verification ideas. | TypeScript, Blockchain Concepts | [View Repository](https://github.com/PankajKumar-11/DrawChain-) |
 
 </div>
