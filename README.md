@@ -1,240 +1,469 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="29px"> Hi, I'm Pankaj Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,50:7b2ff7,100:2575fc&text=Pankaj%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-## Full-Stack Developer • AI/ML Engineer • Data Science Practitioner
-
-<em>Building intelligent products with scalable web systems, ML models, and AI automation workflows.</em>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;AI%2FML+Engineer;Data+Science+Practitioner)](https://github.com/PankajKumar-11)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajKumar-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKumar-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Engineer;Software+Engineer;Full+Stack+Developer;DSA+%7C+Competitive+Programming;Building+Scalable+Intelligent+Systems" />
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/PankajKumar-11?style=for-the-badge&logo=github&label=Followers&color=00D9FF&labelColor=1a1b27)](https://github.com/PankajKumar-11)
-[![GitHub stars](https://img.shields.io/github/stars/PankajKumar-11?style=for-the-badge&logo=github&label=Total%20Stars&color=00D9FF&labelColor=1a1b27)](https://github.com/PankajKumar-11)
-[![Profile Views](https://komarev.com/ghpvc/?username=PankajKumar-11&style=for-the-badge&color=00D9FF)](https://github.com/PankajKumar-11)
+![](https://img.shields.io/badge/B.Tech-Engineering-7B2FF7?style=for-the-badge)
+![](https://img.shields.io/badge/AI%2FML-Enthusiast-6A11CB?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Contributor-2575FC?style=for-the-badge)
+
+![](https://img.shields.io/badge/India-Rajasthan-blueviolet?style=flat-square)
+![](https://img.shields.io/github/followers/PankajKumar-11?style=flat-square)
+![](https://img.shields.io/github/stars/PankajKumar-11?style=flat-square)
+![](https://komarev.com/ghpvc/?username=PankajKumar-11&style=flat-square&color=blueviolet)
+
+<br>
+
+<a href="https://www.linkedin.com/in/pankaj-kumar-a9a164315/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7B2FF7?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:pankaj.k6367@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-6A11CB?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/PankajKumar-11">
+<img src="https://img.shields.io/badge/GitHub-Profile-2575FC?style=for-the-badge&logo=github">
+</a>
 
 </div>
 
 ---
 
-## 🧾 Profile Overview
+# About Me
+
+Software Engineer and AI/ML enthusiast passionate about building intelligent systems and scalable applications. I enjoy solving challenging problems, developing full-stack applications, and leveraging machine learning to create impactful products.
+
+- Building AI-powered solutions and modern web applications.
+- Strong interest in Machine Learning and Software Engineering.
+- Enthusiastic about Data Structures & Algorithms.
+- Passionate about Product Engineering and Problem Solving.
+- Exploring Generative AI and MLOps.
+- Open to internships and collaboration opportunities.
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite"/>
+
+</p>
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+## Cloud, DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|---------|
+| Machine Learning | Advanced | Model development, feature engineering, evaluation |
+| Deep Learning | Intermediate | Neural Networks, CNNs |
+| NLP | Intermediate | Text classification, BERT, embeddings |
+| Explainable AI | Intermediate | SHAP, feature importance |
+| Data Analysis | Advanced | Pandas, NumPy, Matplotlib |
+| Model Deployment | Intermediate | Flask, Streamlit |
+| Computer Vision | Intermediate | MNIST digit recognition |
+| Generative AI | Beginner | LLMs, embeddings, vector databases |
+
+---
+
+# Open To
+
+- Software Engineering Internships
+- AI / ML Roles
+- Open Source Contributions
+- Full Stack Development Opportunities
+- Collaborative Projects
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced DSA
+  - Machine Learning
+  - Deep Learning
+  - System Design
+
+Building:
+  - AI Projects
+  - Full Stack Applications
+  - Scalable Backend Systems
+
+Exploring:
+  - Generative AI
+  - MLOps
+  - LLM Applications
+
+Open_To:
+  - Internship Opportunities
+  - Collaboration
+  - Open Source
+```
+
+---
+# Featured Projects
+
+<details>
+<summary><b>🏏 IPL Win Predictor</b></summary>
+
+<br>
+
+Machine Learning project designed to predict IPL match outcomes using feature engineering and explainable AI techniques.
+
+| Attribute | Details |
+|------------|---------|
+| Stack | Python, Scikit-Learn, Pandas, NumPy, Streamlit |
+| Scale | Historical IPL Dataset |
+| Performance | High prediction accuracy |
+| Explainability | SHAP Feature Importance |
+| Impact | Improved interpretability of match predictions |
+| Repository | Coming Soon |
+
+### Highlights
+
+- Extensive feature engineering.
+- Created derived features like CRR vs RRR.
+- Used Explainable AI techniques with SHAP.
+- Identified venue bias and wicket pressure effects.
+- Interactive prediction interface using Streamlit.
+
+</details>
+
+---
+
+<details>
+<summary><b>🎨 DrawChain</b></summary>
+
+<br>
+
+A blockchain-inspired collaborative drawing platform focused on creativity and transparency.
+
+| Attribute | Details |
+|------------|---------|
+| Stack | React, JavaScript, HTML, CSS |
+| Scale | Multi-user drawing platform |
+| Performance | Responsive UI |
+| Security | Client-side validation |
+| Impact | Interactive creative collaboration |
+| Repository | https://github.com/PankajKumar-11/DrawChain- |
+
+### Highlights
+
+- Real-time drawing experience.
+- Modern and responsive interface.
+- Canvas-based implementation.
+- Interactive user experience.
+- Modular frontend architecture.
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 AI Resume Screener</b></summary>
+
+<br>
+
+AI-powered system for evaluating resumes and matching them with job descriptions.
+
+| Attribute | Details |
+|------------|---------|
+| Stack | Python, NLP, BERT, Streamlit |
+| Scale | Automated candidate evaluation |
+| Performance | Semantic similarity matching |
+| Security | Input validation |
+| Impact | Reduced manual screening effort |
+| Repository | Coming Soon |
+
+### Highlights
+
+- Resume and job description analysis.
+- Semantic similarity scoring.
+- Candidate ranking system.
+- NLP-based evaluation pipeline.
+- Streamlit interface for ease of use.
+
+</details>
+
+---
+
+<details>
+<summary><b>🏨 Hotel Booking Web Application</b></summary>
+
+<br>
+
+Full Stack hotel reservation platform providing seamless booking and management functionalities.
+
+| Attribute | Details |
+|------------|---------|
+| Stack | Node.js, Express.js, MongoDB, JavaScript |
+| Scale | Dynamic booking platform |
+| Performance | Efficient backend operations |
+| Security | Authentication and validation |
+| Impact | Streamlined reservation process |
+| Repository | Coming Soon |
+
+### Highlights
+
+- User authentication.
+- Hotel listings and booking management.
+- REST API architecture.
+- MongoDB database integration.
+- Responsive design.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔢 Handwritten Digit Recognition (MNIST)</b></summary>
+
+<br>
+
+Deep Learning model for handwritten digit classification using neural networks.
+
+| Attribute | Details |
+|------------|---------|
+| Stack | Python, TensorFlow, Keras |
+| Scale | MNIST Dataset |
+| Performance | High classification accuracy |
+| Security | Data preprocessing pipeline |
+| Impact | Computer Vision application |
+| Repository | Coming Soon |
+
+### Highlights
+
+- Image preprocessing.
+- Neural network implementation.
+- Model training and evaluation.
+- Accurate digit classification.
+- Visualization of predictions.
+
+</details>
+
+---
+
+# Experience
+
+## Personal Projects & Open Source
+
+**Software Developer | Independent Projects**
+
+**2024 - Present**
+
+Building AI/ML systems and full stack applications while continuously improving software engineering and problem-solving skills.
+
+### Scope of Work
+
+- Developed machine learning applications.
+- Built scalable backend systems.
+- Designed responsive frontend interfaces.
+- Applied explainable AI techniques.
+- Practiced DSA and competitive programming.
+- Contributed to personal and open-source projects.
+
+### Skills
+
+![](https://img.shields.io/badge/Python-blueviolet?style=flat-square)
+![](https://img.shields.io/badge/C++-7B2FF7?style=flat-square)
+![](https://img.shields.io/badge/React-6A11CB?style=flat-square)
+![](https://img.shields.io/badge/Node.js-2575FC?style=flat-square)
+![](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=flat-square)
+![](https://img.shields.io/badge/MongoDB-7B2FF7?style=flat-square)
+
+---
+
+# Achievements
 
 <div align="center">
 
-**Full-Stack Developer | AI/ML Engineer | Data Science Enthusiast | Building scalable web and intelligent automation solutions.**
-
-*Use this bio in GitHub Settings → Public profile → Bio*
+| Recognition | Details |
+|-------------|---------|
+| Problem Solving | Actively practicing DSA and Competitive Programming |
+| Machine Learning | Built multiple end-to-end ML projects |
+| Full Stack Development | Developed scalable web applications |
+| Explainable AI | Applied SHAP-based model interpretability |
+| Continuous Learning | Exploring Deep Learning and Generative AI |
 
 </div>
 
 ---
 
-## 🚀 About Me
+# Certifications
 
-<table>
-  <tr>
-    <td>
-      💡 Passionate about solving real-world problems using <b>Web Development + AI/ML + Data Science</b><br>
-      🧠 Strong interest in <b>Machine Learning engineering</b>, <b>automation systems</b>, and <b>scalable app development</b><br>
-      🔍 Focused on writing clean, maintainable code and delivering useful user experiences<br>
-      🌱 Continuously learning advanced ML, deep learning, and production-grade software practices
-    </td>
-  </tr>
-</table>
+## AWS
+
+![](https://img.shields.io/badge/AWS-Learning-7B2FF7?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database-6A11CB?style=for-the-badge&logo=oracle)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Certified-2575FC?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-7B2FF7?style=for-the-badge&logo=cisco)
 
 ---
 
-## 🛠️ Tech Stack
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/PankajKumar-11">
+<img src="https://img.shields.io/badge/GitHub-PankajKumar--11-7B2FF7?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PankajKumar-11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### AI / ML / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EEE?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Automation & Integration
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKumar-11&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>🎨 DrawChain</h3>
-      <p><strong>Interactive drawing app with blockchain concepts</strong></p>
-      <p>Innovative drawing platform with ownership verification and chain-based architecture</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blockchain-blueviolet?style=flat" />
-        <img src="https://img.shields.io/badge/Web3-featured-yellow?style=flat" />
-      </p>
-      <a href="https://github.com/PankajKumar-11/DrawChain-">
-        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🏏 IPL Win Probability Predictor</h3>
-      <p><strong>ML-powered cricket prediction system</strong></p>
-      <p>Advanced statistical models predicting match outcomes with real-time probability updates</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-blue?style=flat" />
-      </p>
-      <a href="https://github.com/PankajKumar-11/IPL-Win-Probability-Predictor">
-        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏨 YourBooking</h3>
-      <p><strong>Full-stack hotel booking platform</strong></p>
-      <p>Room discovery, availability search, and reservation workflow</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      </p>
-      <a href="https://github.com/PankajKumar-11/YourBooking-Hotel-booking-Web-">
-        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI Resume Screener</h3>
-      <p><strong>AI-powered hiring assistant</strong></p>
-      <p>Resume parsing, candidate ranking, and role-based filtering</p>
-      <p>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-Automation-yellow?style=flat" />
-      </p>
-      <a href="https://github.com/PankajKumar-11/AI-Resume-Screener">
-        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>😊 Emotion Detection</h3>
-      <p><strong>Computer vision & ML system</strong></p>
-      <p>Real-time facial emotion recognition and sentiment interpretation</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EEE?style=flat&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-blue?style=flat" />
-      </p>
-      <a href="https://github.com/PankajKumar-11/Emotion-Detection">
-        <img src="https://img.shields.io/badge/View%20Repository-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧠 Skills & Expertise
-
-<table align="center">
-  <tr>
-    <th>Domain</th>
-    <th>Expertise</th>
-  </tr>
-  <tr>
-    <td><b>Machine Learning</b></td>
-    <td>Classification, prediction systems, emotion recognition, NLP-based analysis</td>
-  </tr>
-  <tr>
-    <td><b>Data Science</b></td>
-    <td>Data cleaning, EDA, feature engineering, model evaluation, visualization</td>
-  </tr>
-  <tr>
-    <td><b>Web Development</b></td>
-    <td>Responsive UI development, full-stack architecture, project deployment</td>
-  </tr>
-  <tr>
-    <td><b>AI Automation</b></td>
-    <td>Workflow orchestration with n8n, automated screening pipelines, process optimization</td>
-  </tr>
-</table>
-
----
-
-## 🎯 Current Focus
-
-- 🔨 Building production-ready **AI-integrated full-stack applications**
-- 📊 Improving model performance and experimentation in **ML projects**
-- 🚀 Developing practical **data-driven products** for real users
-- 🤝 Contributing to and learning from open-source ecosystems
-
----
-
-## 📫 Let's Connect
+# GitHub Streak Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-kumar-a9a164315/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankaj.dev@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PankajKumar-11)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PankajKumar-11)
+<img src="https://streak-stats.demolab.com?user=PankajKumar-11&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# GitHub Trophies
 
-- 🎓 Completed multiple AI/ML and full-stack development projects
-- 💻 Proficient in building end-to-end web and ML solutions
-- 🔧 Expertise in automation workflows and process optimization
-- 🌐 Open to collaborations and exciting projects
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PankajKumar-11&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajKumar-11&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PankajKumar-11/PankajKumar-11/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Goals
+
+```yaml
+Learning:
+  - Advanced Data Structures & Algorithms
+  - Machine Learning
+  - Deep Learning
+  - System Design
+
+Building:
+  - AI Applications
+  - Full Stack Projects
+  - Intelligent Systems
+
+Exploring:
+  - Generative AI
+  - MLOps
+  - LLM Applications
+  - Open Source
+
+Open_To:
+  - Software Engineering Internships
+  - AI/ML Opportunities
+  - Collaboration
+  - Open Source Contributions
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:pankaj.k6367@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-7B2FF7?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/pankaj-kumar-a9a164315/">
+<img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Kumar-6A11CB?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/PankajKumar-11">
+<img src="https://img.shields.io/badge/GitHub-PankajKumar--11-2575FC?style=for-the-badge&logo=github">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### *"Building intelligent systems and scalable software, one commit at a time."*
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nPvubuQ9/giphy.gif" width="60px" />
+</div>
 
-*Made with ❤️ by Pankaj Kumar*
+---
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PankajKumar-11.PankajKumar-11&title=Profile%20Visitors)](https://github.com/PankajKumar-11)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6a11cb,50:7b2ff7,100:2575fc"/>
 
 </div>
