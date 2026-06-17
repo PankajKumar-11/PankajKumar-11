@@ -274,6 +274,17 @@ Deep Learning model for handwritten digit classification using neural networks.
 </details>
 
 ---
+# Highlighted Repositories
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PankajKumar-11&repo=DrawChain-&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PankajKumar-11&repo=IPL-Win-Predictor&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 # Experience
 
@@ -355,33 +366,33 @@ Building AI/ML systems and full stack applications while continuously improving 
 
 # GitHub Analytics
 
-<div align="center">
+## Profile Summary
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PankajKumar-11&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKumar-11&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PankajKumar-11&theme=tokyonight"/>
+</p>
 
 ---
 
-# GitHub Streak Stats
+## GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=PankajKumar-11&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PankajKumar-11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img width="49%" src="https://streak-stats.demolab.com?user=PankajKumar-11&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# GitHub Trophies
+## Top Languages
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PankajKumar-11&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKumar-11&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
@@ -390,6 +401,15 @@ Building AI/ML systems and full stack applications while continuously improving 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajKumar-11&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PankajKumar-11&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -405,34 +425,6 @@ Building AI/ML systems and full stack applications while continuously improving 
 
 ---
 
-# Current Goals
-
-```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - System Design
-
-Building:
-  - AI Applications
-  - Full Stack Projects
-  - Intelligent Systems
-
-Exploring:
-  - Generative AI
-  - MLOps
-  - LLM Applications
-  - Open Source
-
-Open_To:
-  - Software Engineering Internships
-  - AI/ML Opportunities
-  - Collaboration
-  - Open Source Contributions
-```
-
----
 
 # Connect With Me
 
@@ -456,7 +448,7 @@ Open_To:
 
 <div align="center">
 
-### *"Building intelligent systems and scalable software, one commit at a time."*
+### *"Turning ideas into intelligent products through code, data, and continuous learning."*
 
 </div>
 
