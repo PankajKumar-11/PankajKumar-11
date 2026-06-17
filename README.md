@@ -278,9 +278,13 @@ Deep Learning model for handwritten digit classification using neural networks.
 
 <p align="center">
 
+<a href="https://github.com/PankajKumar-11/DrawChain-">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PankajKumar-11&repo=DrawChain-&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PankajKumar-11&repo=IPL-Win-Predictor&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/PankajKumar-11/IPL-Win-Probability-Predictor">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PankajKumar-11&repo=IPL-Win-Probability-Predictor&theme=tokyonight&hide_border=true"/>
+</a>
 
 </p>
 
@@ -407,11 +411,9 @@ Building AI/ML systems and full stack applications while continuously improving 
 ---
 # GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PankajKumar-11&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PankajKumar-11&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
